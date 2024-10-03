@@ -12,7 +12,7 @@ dolarDun = "9.20"
 console.log(dolarDun)
 
 const euroDun = 11.2
-//euroDun = 11
+//euroDun = 11 hata veriyor const değişkeni sabit.
 
 console.log(euroDun)
 
